@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruth Lydia Schmidt"
-  avatar           : "/images/portrait_3_bw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/portrait_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Microbial Ecologist & Data Scientist"
   location         : "Tiohtià:ke/Montréal"
   email            : "schmidt.ruth@gmail.com"

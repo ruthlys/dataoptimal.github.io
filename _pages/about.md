@@ -2,9 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/microbes.jpeg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I am a microbial ecologist with a passion for data science. Currently, I am a Mitacs postdoctoral fellow between the National Institute of Scientific Research (INRS) and the data science company Plotly. My work aims at find microbial solutions to combat climate change in agriculture by combining molecular tools with interactive data visualization tools in Dash for R.

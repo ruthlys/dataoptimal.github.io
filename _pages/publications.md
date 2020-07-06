@@ -1,24 +1,10 @@
 ---
-permalink: /publications/
+layout: archive
 title: "Publications"
-author_profile: true
-  header:
-    overlay_image: /images/wheat_green.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "My research is about bla"."
-intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+permalink: /publications/
+header:
+  image: "/images/wheat_green.jpg"
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)
 

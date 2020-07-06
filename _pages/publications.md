@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-permalink: /publications/
+permalink: /about/
 header:
   image: "/images/microbes.jpeg"
 ---

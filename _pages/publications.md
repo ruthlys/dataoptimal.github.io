@@ -5,8 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/wheat_green.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  excerpt: "Research interests & Publications"
+excerpt: "Research interests & Publications"
 ---
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)

@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Publications"
 permalink: /about/
 header:
@@ -9,11 +10,11 @@ header:
 
 ## 2020
 
-De la Porte A, [**Schmidt R**,](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) [Yergeau E, Constant P.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) A Gaseous Milieu: Extending the Boundaries of the Rhizosphere[.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) _Cell Press, Trends in Microbiology_
+[De la Porte A, **Schmidt R**, Yergeau E, Constant P. A Gaseous Milieu: Extending the Boundaries of the Rhizosphere. _Cell Press, Trends in Microbiology_](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext)
 
 ## 2019
 
-[**Schmidt R**, Ulanova D, Wick Gessler L, Bode H, Garbeva P.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) Microbe-driven chemical ecology – past, present and future[.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) _ISME_ _Journal_
+[**Schmidt R**, Ulanova D, Wick Gessler L, Bode H, Garbeva P. Microbe-driven chemical ecology – past, present and future. _ISME_ _Journal_](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext)
 
 ## 2018
 
@@ -23,7 +24,7 @@ De la Porte A, [**Schmidt R**,](https://academic.oup.com/femsec/article-abstract
 
 [Ramirez KS, Berhe AA, Burt J, Gil-Romera G, Johnson RF, Koltz AM, Lacher I, McGlynn T, Nielsen KJ, **Schmidt R**, Simonis JL, terHorst CP, Tuff K. The future of ecology is collaborative, inclusive and deconstructs biases. _Nature Ecology&Evolution_](https://www.nature.com/articles/s41559-017-0445-7)
 
-## _2017_
+## 2017
 
 [**Schmidt R**, de Jager V, Zühlke D, Wolff C, Bernhardt J, Cankar K, Beekwilder J, van Ijcken W, Sleutels F, de Boer W, Riedel K and Garbeva P (2017). Fungal volatile compounds induce production of the secondary metabolite Sodorifen in _Serratia plymuthica_ PRI-2C. _Scientific Reports_](https://www.nature.com/articles/s41598-017-00893-3)
 
@@ -37,14 +38,14 @@ _Top 100 Scientific Reports papers in microbiology of 2017 and covered in severa
 
 [**Schmidt R**, Cordovez V, de Boer W, Raaijmakers JM, Garbeva P. Volatile affairs in microbial interactions. _ISME Journal _](https://www.nature.com/articles/ismej201542)
 
-## _2015_
+## 2015
 
 [Song C, **Schmidt R**, de Jager V, Krzyzanowska D, Jongedijk E, Cankar K, Beekwilder J, van Veen A, de Boer W, van Veen JA, Garbeva P (2015) Exploring the genomic traits of fungus-feeding bacterial genus Collimonas. _BMC Genomics_](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2289-3)
 
-## _2014_
+## 2014
 
 [**Schmidt R**, Köberl M, Mostafa A, Ramadan EM, Monschein M, Jensen BJ, Bauer R, Berg G. Effects of bacterial inoculants on the indigenous microbiome and secondary metabolites of chamomile plants. _Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2014.00064/full)
 
-## _2013_
+## 2013
 
 [Köberl M, **Schmidt R**, Ramadan EM, Bauer R, Berg G. The microbiome of medicinal plants: diversity and importance for plant growth, quality and health. _Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2013.00400/full)

@@ -1,9 +1,50 @@
 ---
-layout: page
 title: "Publications"
 permalink: /about/
 header:
   image: "/images/microbes.jpeg"
 ---
 
-<p class="" style="white-space:pre-wrap;"><a href="https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&amp;hl=en" target="_blank"><strong>Google scholar</strong></a></p><h2 style="white-space:pre-wrap;">2020</h2><p class="" style="white-space:pre-wrap;">De la Porte A, <a href="https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext" target="_blank"><strong>Schmidt R</strong>,</a> <a href="https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext" target="_blank">Yergeau E, Constant P. </a>A Gaseous Milieu: Extending the Boundaries of the Rhizosphere<a href="https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext" target="_blank">. </a><em>Cell Press, Trends in Microbiology</em></p><h2 style="white-space:pre-wrap;">2019</h2><p class="" style="white-space:pre-wrap;"><a href="https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext" target="_blank"><strong>Schmidt R</strong>, Ulanova D, Wick Gessler L, Bode H, Garbeva P. </a>Microbe-driven chemical ecology – past, present and future<a href="https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext" target="_blank">. </a><em>ISME</em> <em>Journal</em></p><h2 style="white-space:pre-wrap;">2018</h2><p class="" style="white-space:pre-wrap;"><a href="https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext" target="_blank"><strong>Schmidt R</strong>, Durling MB, de Jager V, Menezes RC, Nordkvist E, Svatoš A, Dubey M, Lauterbach L, Dickschat J, Karlsson M, Garbeva P. Deciphering the genome and secondary metabolome of the plant pathogen <em>Fusarium culmorum</em>. <em>FEMS Microbiology Ecology</em> </a></p><p class="" style="white-space:pre-wrap;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1751-7915.13285" target="_blank">Bäumel S, Tytgat HLP, Nemec B, <strong>Schmidt R</strong>, Chia LW, Smidt H. Fifty Percent Human - how art brings us in touch with our microbial cohabitants. <em>Microbial biotechnology</em></a></p><p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/s41559-017-0445-7" target="_blank">Ramirez KS, Berhe AA, Burt J, Gil-Romera G, Johnson RF, Koltz AM, Lacher I, McGlynn T, Nielsen KJ, <strong>Schmidt R</strong>, Simonis JL, terHorst CP, Tuff K. The future of ecology is collaborative, inclusive and deconstructs biases. <em>Nature Ecology&amp;Evolution</em></a></p><h2 style="white-space:pre-wrap;"><em>2017</em></h2><p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/s41598-017-00893-3" target="_blank"><strong>Schmidt R</strong>, de Jager V, Zühlke D, Wolff C, Bernhardt J, Cankar K, Beekwilder J, van Ijcken W, Sleutels F, de Boer W, Riedel K and Garbeva P (2017). Fungal volatile compounds induce production of the secondary metabolite Sodorifen in <em>Serratia plymuthica</em> PRI-2C. <em>Scientific Reports</em></a></p><p class="" style="white-space:pre-wrap;"><em>Top 100 Scientific Reports papers in microbiology of 2017 and covered in several </em><a href="https://www.sciencedaily.com/releases/2017/04/170413190718.htm" target="_blank"><em>news outlets</em></a><em> and </em><a href="https://www.youtube.com/watch?v=0PlhcI8O1NY" target="_blank"><em>The SciSchow</em></a><em>.  </em></p><h2 style="white-space:pre-wrap;">2016</h2><p class="" style="white-space:pre-wrap;"><a href="https://www.frontiersin.org/articles/10.3389/fmicb.2016.01079/full" target="_blank">Adam E, Groenenboom A E, Kurm V K, Rajewska, M, <strong>Schmidt R</strong>, Tyc O, Weidner S, Berg G, de Boer W, Salles, J F. Controlling the microbiome: microhabitat adjustments for successful biocontrol strategies in soil and human gut. <em>Frontiers in Microbiology</em></a></p><p class="" style="white-space:pre-wrap;"><a href="https://dx.doi.org/10.3389/fmicb.2015.01495" target="_blank"><strong>Schmidt R</strong>, Etalo WD, de Jager V, Gerards S, Zweers H, de Boer W, Garbeva P. Microbial small talk: Volatiles in fungal-bacterial interactions. <em>Frontiers in Microbiology</em></a></p><p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/ismej201542" target="_blank"><strong>Schmidt R</strong>, Cordovez V, de Boer W, Raaijmakers JM, Garbeva P. Volatile affairs in microbial interactions. <em>ISME Journal&nbsp;</em></a></p><h2 style="white-space:pre-wrap;"><em>2015</em></h2><p class="" style="white-space:pre-wrap;"><a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2289-3" target="_blank">Song C, <strong>Schmidt R</strong>, de Jager V, Krzyzanowska D, Jongedijk E, Cankar K, Beekwilder J, van Veen A, de Boer W, van Veen JA, Garbeva P (2015) Exploring the genomic traits of fungus-feeding bacterial genus Collimonas.<em> BMC Genomics</em></a></p><h2 style="white-space:pre-wrap;"><em>2014</em></h2><p class="" style="white-space:pre-wrap;"><a href="https://www.frontiersin.org/articles/10.3389/fmicb.2014.00064/full" target="_blank"><strong>Schmidt R</strong>, Köberl M, Mostafa A, Ramadan EM, Monschein M, Jensen BJ, Bauer R, Berg G. Effects of bacterial inoculants on the indigenous microbiome and secondary metabolites of chamomile plants.<em> Frontiers in Microbiology</em></a></p><h2 style="white-space:pre-wrap;"><em>2013</em></h2><p class="" style="white-space:pre-wrap;"><a href="https://www.frontiersin.org/articles/10.3389/fmicb.2013.00400/full" target="_blank">Köberl M, <strong>Schmidt R</strong>, Ramadan EM, Bauer R, Berg G. The microbiome of medicinal plants: diversity and importance for plant growth, quality and health. <em>Frontiers in Microbiology</em></a></p>
+[**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)
+
+## 2020
+
+De la Porte A, [**Schmidt R**,](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) [Yergeau E, Constant P.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) A Gaseous Milieu: Extending the Boundaries of the Rhizosphere[.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) _Cell Press, Trends in Microbiology_
+
+## 2019
+
+[**Schmidt R**, Ulanova D, Wick Gessler L, Bode H, Garbeva P.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) Microbe-driven chemical ecology – past, present and future[.](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext) _ISME_ _Journal_
+
+## 2018
+
+[**Schmidt R**, Durling MB, de Jager V, Menezes RC, Nordkvist E, Svatoš A, Dubey M, Lauterbach L, Dickschat J, Karlsson M, Garbeva P. Deciphering the genome and secondary metabolome of the plant pathogen _Fusarium culmorum_. _FEMS Microbiology Ecology_](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext)
+
+[Bäumel S, Tytgat HLP, Nemec B, **Schmidt R**, Chia LW, Smidt H. Fifty Percent Human - how art brings us in touch with our microbial cohabitants. _Microbial biotechnology_](https://onlinelibrary.wiley.com/doi/abs/10.1111/1751-7915.13285)
+
+[Ramirez KS, Berhe AA, Burt J, Gil-Romera G, Johnson RF, Koltz AM, Lacher I, McGlynn T, Nielsen KJ, **Schmidt R**, Simonis JL, terHorst CP, Tuff K. The future of ecology is collaborative, inclusive and deconstructs biases. _Nature Ecology&Evolution_](https://www.nature.com/articles/s41559-017-0445-7)
+
+## _2017_
+
+[**Schmidt R**, de Jager V, Zühlke D, Wolff C, Bernhardt J, Cankar K, Beekwilder J, van Ijcken W, Sleutels F, de Boer W, Riedel K and Garbeva P (2017). Fungal volatile compounds induce production of the secondary metabolite Sodorifen in _Serratia plymuthica_ PRI-2C. _Scientific Reports_](https://www.nature.com/articles/s41598-017-00893-3)
+
+_Top 100 Scientific Reports papers in microbiology of 2017 and covered in several_ [_news outlets_](https://www.sciencedaily.com/releases/2017/04/170413190718.htm) _and_ [_The SciSchow_](https://www.youtube.com/watch?v=0PlhcI8O1NY)_._
+
+## 2016
+
+[Adam E, Groenenboom A E, Kurm V K, Rajewska, M, **Schmidt R**, Tyc O, Weidner S, Berg G, de Boer W, Salles, J F. Controlling the microbiome: microhabitat adjustments for successful biocontrol strategies in soil and human gut. _Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2016.01079/full)
+
+[**Schmidt R**, Etalo WD, de Jager V, Gerards S, Zweers H, de Boer W, Garbeva P. Microbial small talk: Volatiles in fungal-bacterial interactions. _Frontiers in Microbiology_](https://dx.doi.org/10.3389/fmicb.2015.01495)
+
+[**Schmidt R**, Cordovez V, de Boer W, Raaijmakers JM, Garbeva P. Volatile affairs in microbial interactions. _ISME Journal _](https://www.nature.com/articles/ismej201542)
+
+## _2015_
+
+[Song C, **Schmidt R**, de Jager V, Krzyzanowska D, Jongedijk E, Cankar K, Beekwilder J, van Veen A, de Boer W, van Veen JA, Garbeva P (2015) Exploring the genomic traits of fungus-feeding bacterial genus Collimonas. _BMC Genomics_](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2289-3)
+
+## _2014_
+
+[**Schmidt R**, Köberl M, Mostafa A, Ramadan EM, Monschein M, Jensen BJ, Bauer R, Berg G. Effects of bacterial inoculants on the indigenous microbiome and secondary metabolites of chamomile plants. _Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2014.00064/full)
+
+## _2013_
+
+[Köberl M, **Schmidt R**, Ramadan EM, Bauer R, Berg G. The microbiome of medicinal plants: diversity and importance for plant growth, quality and health. _Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2013.00400/full)

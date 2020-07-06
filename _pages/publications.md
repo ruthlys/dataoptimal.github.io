@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 header:
-  image: "/images/microbes.jpeg"
+  image: "/images/wheat.jpg"
 ---
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)

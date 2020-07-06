@@ -1,9 +1,9 @@
 ---
-layout: splash
 title: "Research & Publications"
+layout: splash
 permalink: /publications/
 header:
-  image: "/images/wheat.jpg"
+  image: "/images/wheat_green.jpg"
 ---
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)

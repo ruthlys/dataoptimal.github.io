@@ -2,7 +2,9 @@
 title: "Publications"
 permalink: /publications/
 header:
-  image: "/images/wheat_green.jpg"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /images/wheat_green.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   excerpt: "Research interests & Publications"
 ---

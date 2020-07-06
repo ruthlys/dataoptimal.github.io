@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 header:
   overlay_color: "#000"
-
+  overlay_filter: "0.2"
   overlay_image: /images/wheat_green.jpg
 excerpt: "Research interests & Publications"
 ---

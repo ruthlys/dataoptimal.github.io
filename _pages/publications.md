@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: default
 permalink: /publications/
 title: "Publications"
 author_profile: true
@@ -22,7 +22,6 @@ intro:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)
 

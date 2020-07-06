@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 layout: splash
 permalink: /publications/
   header:

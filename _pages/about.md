@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /about/
+permalink: /publications/
 header:
   image: "/images/microbes.jpeg"
 ---

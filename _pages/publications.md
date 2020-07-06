@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Publications"
+layout: splash
+title: "Research & Publications"
 permalink: /publications/
 header:
   image: "/images/wheat.jpg"

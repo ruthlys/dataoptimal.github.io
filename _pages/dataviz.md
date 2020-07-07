@@ -1,6 +1,6 @@
 ---
 permalink: /dataviz/
-title: "Data viz"
+title: "Data visualization projects"
 author_profile: true
 header:
   overlay_color: "#000"

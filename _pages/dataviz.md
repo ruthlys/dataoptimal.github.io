@@ -9,4 +9,4 @@ header:
 ---
 This is a plotly graph.
 
-{% include_cached test.html %}
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~RuthSchmidt/5.embed"></iframe>

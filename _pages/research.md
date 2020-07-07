@@ -12,13 +12,16 @@ My research
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)
 
-## 2020
+2020
+
 [De la Porte A, **Schmidt R**, Yergeau E, Constant P. A Gaseous Milieu: Extending the Boundaries of the Rhizosphere. _Cell Press, Trends in Microbiology_](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext)
 
-## 2019
+2019
+
 [**Schmidt R**, Ulanova D, Wick Gessler L, Bode H, Garbeva P. Microbe-driven chemical ecology – past, present and future. _ISME_ _Journal_](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext)
 
 ## 2018
+
 [**Schmidt R**, Durling MB, de Jager V, Menezes RC, Nordkvist E, Svatoš A, Dubey M, Lauterbach L, Dickschat J, Karlsson M, Garbeva P. Deciphering the genome and secondary metabolome of the plant pathogen _Fusarium culmorum_. _FEMS Microbiology Ecology_](https://academic.oup.com/femsec/article-abstract/94/6/fiy078/4990469?redirectedFrom=fulltext)
 
 [Bäumel S, Tytgat HLP, Nemec B, **Schmidt R**, Chia LW, Smidt H. Fifty Percent Human - how art brings us in touch with our microbial cohabitants. _Microbial biotechnology_](https://onlinelibrary.wiley.com/doi/abs/10.1111/1751-7915.13285)

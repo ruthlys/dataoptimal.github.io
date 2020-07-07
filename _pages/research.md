@@ -1,5 +1,5 @@
 ---
-title: "Research interests & Publications"
+title: "Research interests"
 permalink: /research/
 header:
   overlay_color: "#000"

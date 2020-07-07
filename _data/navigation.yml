@@ -4,8 +4,8 @@ main:
     url: /research/
   - title: "Data viz"
     url: /dataviz/
-  - title: "Science Communication"
-    url: /scicomm/
+  - title: "Posts"
+    url: /posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

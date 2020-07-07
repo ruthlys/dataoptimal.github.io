@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research interests"
+    url: /research/
   - title: "Data viz"
-    url: /data-viz/
+    url: /dataviz/
+  - title: "Science Communication"
+    url: /scicomm/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -1,0 +1,30 @@
+---
+output: 
+  md_document:
+    variant: markdown_github
+---
+
+Check out some fun data visualizations I've made using Plotly's libraries.
+
+```{r message=FALSE, warning=FALSE, echo=FALSE, fig.width=6.5,fig.height=5}
+library(plotly)
+pca = read.table("/Users/ruthschmidt/Dropbox/Work/INRS/Data/NI_experiment/Files/VOC/pca.df.txt", sep="\t", header=T)
+pca$Date = as.factor(pca$Date)
+pcoa3d <- plot_ly(pca, x = ~x, y = ~y, z = ~z, color = ~Treatment, colors = "Dark2", text = ~Date, mode = "markers", type = "scatter3d",
+               marker = list(symbol = ~as.factor(char), symbols = "Date"))
+pcoa3d <- pcoa3d %>% layout(scene = list(xaxis = list(title = 'PC1 (37.1%)'),
+                                   yaxis = list(title = 'PC2 (13.3%)'),
+                                   zaxis = list(title = 'PC3 (5.7%)')))
+
+pcoa3d
+```
+
+PERMANOVA of rhizosphere VOC composition
+
+|                         	|     *R<sup>2* </sup>   	|     *P*         	|
+|-------------------------	|------------------------	|-----------------	|
+|     Treatment           	|     0.013              	|     0.384       	|
+|     Date                	|     0.665              	|     **0.001**   	|
+|     Treatment × Date    	|     0.016              	|     0.304       	|
+
+]

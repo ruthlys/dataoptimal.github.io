@@ -62,5 +62,3 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
-
-{% include dataviz.html %}

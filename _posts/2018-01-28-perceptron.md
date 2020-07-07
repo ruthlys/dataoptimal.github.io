@@ -1,5 +1,5 @@
 ---
-title: "Posts viz"
+title: "Data Wrangling Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
@@ -61,5 +61,3 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
-
-Here is an interactive Graph

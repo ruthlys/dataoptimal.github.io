@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-viz/
+permalink: /dataviz/
 title: "Data viz"
 author_profile: true
 header:

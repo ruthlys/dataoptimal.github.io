@@ -21,4 +21,5 @@ pcoa3d <- pcoa3d %>% layout(scene = list(xaxis = list(title = 'PC1 (37.1%)'),
                                    zaxis = list(title = 'PC3 (5.7%)')))
 
 pcoa3d
+
 ```

@@ -1,11 +1,11 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Research interests & Publications"
+permalink: /research/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /images/wheat_green.jpg
-excerpt: "Research interests & Publications"
+
 ---
 
 For a full list see [**Google scholar**](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)

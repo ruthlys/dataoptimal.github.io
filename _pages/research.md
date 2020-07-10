@@ -14,9 +14,7 @@ This is a 3D model of Geosmin.
 
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
 
-<iframe style="width: 500px; height: 300px;" frameborder="0"
-  src="https://embed.molview.org/v1/?mode=balls&cid=67448&bg=white">
-</iframe>
+<iframe style="width: 500px; height: 300px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=29746"></iframe>
 
 These volatiles have a variety of interesting functions, like protecting plants from enemies and acting as a kind of language between separated microbes in soil. I've been studying these microbial interactions via volatiles in soil, and moved to studying microbial volatile interactions in the plant holobiont, which can be described as an inseparable unit of the plant and its associated microbes, also called the microbiota. I am now studying mechanisms by which microbes help crops adapt to climate change stressors, like drought. This will hopefully help finding ways to support sustainable agriculture practices in a changing climate.
 

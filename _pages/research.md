@@ -8,10 +8,25 @@ header:
 
 ---
 
-I am intrigued by the how microbes interact and communicate with each other via gaseous compounds or volatiles. They are called volatile because they are released into the air by microbes or plants and are perceived by a variety of organisms, including us humans. You may have heard of geosmin, the probably most famous volatile that has a characteristic earthy, fresh smell and is produced by soil-dwelling bacteria when rain hits dry soil. These volatiles have a variety of interesting functions, like protecting plants from enemies and acting as a kind of language between separated microbes in soil. I've been studying these microbial interactions via volatiles in soil, and moved to studying microbial volatile interactions in the plant holobiont, which can be described as an inseparable unit of the plant and its associated microbes, also called the microbiota. I am now studying mechanisms by which microbes help crops adapt to climate change stressors, like drought. This will hopefully help finding ways to support sustainable agriculture practices in a changing climate.
+I am intrigued by the how microbes interact and communicate with each other via gaseous compounds or volatiles. They are called volatile because they are released into the air by microbes or plants and are perceived by a variety of organisms, including us humans. You may have heard of geosmin, the probably most famous volatile compound that has a characteristic earthy, fresh smell and is produced by soil-dwelling bacteria when rain hits dry soil.
+
+This is a 3D model of Geosmin. 
+
+<script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
+
+<div style="height: 300px; width: 500px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor='0xffffff'
+  data-href='/path/to/myMolecule.xyz'
+  data-style='stick'>
+</div>
+
+These volatiles have a variety of interesting functions, like protecting plants from enemies and acting as a kind of language between separated microbes in soil. I've been studying these microbial interactions via volatiles in soil, and moved to studying microbial volatile interactions in the plant holobiont, which can be described as an inseparable unit of the plant and its associated microbes, also called the microbiota. I am now studying mechanisms by which microbes help crops adapt to climate change stressors, like drought. This will hopefully help finding ways to support sustainable agriculture practices in a changing climate.
 
 
-Here is what I've published (for a full list see [Google scholar](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en)).
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Ruth_Schmidt). 
+
+## Peer-reviewed Publications
 
 2020
 
@@ -41,7 +56,7 @@ _Top 100 Scientific Reports papers in microbiology of 2017 and covered in severa
 
 [**Schmidt R**, Etalo WD, de Jager V, Gerards S, Zweers H, de Boer W, Garbeva P. Microbial small talk: Volatiles in fungal-bacterial interactions. _Frontiers in Microbiology_](https://dx.doi.org/10.3389/fmicb.2015.01495)
 
-[**Schmidt R**, Cordovez V, de Boer W, Raaijmakers JM, Garbeva P. Volatile affairs in microbial interactions. _ISME Journal _](https://www.nature.com/articles/ismej201542)
+[**Schmidt R**, Cordovez V, de Boer W, Raaijmakers JM, Garbeva P. Volatile affairs in microbial interactions. _ISME Journal_](https://www.nature.com/articles/ismej201542)
 
 2015
 
@@ -54,3 +69,9 @@ _Top 100 Scientific Reports papers in microbiology of 2017 and covered in severa
 2013
 
 [Köberl M, **Schmidt R**, Ramadan EM, Bauer R, Berg G. The microbiome of medicinal plants: diversity and importance for plant growth, quality and health. _Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2013.00400/full)
+
+## Popular science contributions 
+
+
+
+

@@ -43,7 +43,7 @@
   }
 
   li {
-    display: inline;
+    display: none;
   }
 
   .current {
@@ -517,7 +517,7 @@
   font-size: 0.8rem;
 
   a {
-    display: block;
+    display: none;
     padding: 0.5rem 1rem;
     color: $muted-text-color;
     font-size: $type-size-7;

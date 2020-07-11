@@ -138,9 +138,9 @@
     border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
 
-    &:hover {
+    /*&:hover {
       @include yiq-contrasted($muted-text-color);
-    }
+    }*/
 
     &:first-child {
       border-top-right-radius: 0;

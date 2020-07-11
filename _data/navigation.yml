@@ -9,13 +9,13 @@ main:
   - title: "Blog"
     url: /blog/
 
-pubs:
-  - title:
-    children:
-      - title: "Peer-reviewed Publications"
-        url: /publications/
-      - title: "Popular news outlets"
-        url: /publications/
+#pubs:
+#  - title:
+#    children:
+#      - title: "Peer-reviewed Publications"
+#        url: /publications/
+#      - title: "Popular news outlets"
+#        url: Publications
 
 #  - title: "Science communication"
 #    url: /scicomm/

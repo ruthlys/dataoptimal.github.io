@@ -1,5 +1,6 @@
 ---
 title: "About me"
+permalink: /about/
 author_profile: true
 header:
   overlay_color: "#000"

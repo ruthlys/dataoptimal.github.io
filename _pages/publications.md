@@ -2,6 +2,8 @@
 title: "Publications"
 permalink: /publications/
 author_profile: false
+sidebar: 
+  nav: "pubs"
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"

@@ -8,6 +8,15 @@ main:
     url: /publications/
   - title: "Blog"
     url: /blog/
+
+publications:
+  - title:
+    children:
+      - title: Peer-reviewed Publications
+        url: Publications
+      - title: Popular news outlets
+        url: Publications
+
 #  - title: "Science communication"
 #    url: /scicomm/
 

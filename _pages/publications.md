@@ -37,7 +37,6 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 ### The future of ecology is collaborative, inclusive and deconstructs biases.
 *Nat Ecol Evol.* [DOI: 10.1038/s41559-017-0445-7](https://www.nature.com/articles/s41559-017-0445-7)
 <br>Ramirez, K. S., Berhe, A. A., Burt, J., Gil-Romera, G., Johnson, R. F., Koltz, A. M., Lacher, I., McGlynn, T., Nielsen, K. J., **Schmidt, R.**, Simonis, J. L., terHorst, C. P., & Tuff, K.
-Scientific reports.
 
 2017
 ### Fungal volatile compounds induce production of the secondary metabolite Sodorifen in *Serratia plymuthica* PRI-2C.

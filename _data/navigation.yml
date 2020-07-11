@@ -2,10 +2,13 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "publications"
+    url: /publications/
   - title: "Data viz"
     url: /dataviz/
   - title: "Science communication"
     url: /scicomm/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

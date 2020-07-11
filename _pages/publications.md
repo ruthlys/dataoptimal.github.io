@@ -4,7 +4,7 @@ permalink: /publications/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /images/microbes.jpeg
+  overlay_image: /images/microbes_2.gif
 
 ---
 

@@ -89,7 +89,8 @@
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        /*color: $link-color-hover;*/
+        color: $link-color;
       }
 
       &.current,
@@ -189,7 +190,8 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      /*color: $masthead-link-color-hover;*/
+      color: $link-color;
     }
 
     &.site-title {

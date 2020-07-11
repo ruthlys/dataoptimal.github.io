@@ -172,8 +172,8 @@ body:hover .visually-hidden button {
 .icon {
   display: inline-block;
   fill: currentColor;
-  width: 2em;
-  height: 2em;
+  width: 3em;
+  height: 3em;
   line-height: 1;
   position: relative;
   top: -0.1em;
@@ -239,8 +239,7 @@ body:hover .visually-hidden button {
     color: $lastfm-color;
   }
 
-  .fa-linkedin,
-  .fa-linkedin-in {
+  .fa-linkedin,{
     color: $text-color;
   }
 

@@ -43,7 +43,7 @@
   }
 
   li {
-    display: none;
+    display: inline;
   }
 
   .current {
@@ -183,7 +183,7 @@
   background: #ffffff;
 
   a {
-    display: none;
+    display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;

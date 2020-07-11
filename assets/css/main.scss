@@ -4,6 +4,10 @@ $link-color: mediumaquamarine;
 ---
 $link-color: mediumaquamarine;
 
+.greedy-nav .visible-links a:before {
+  background-color: white;
+}
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

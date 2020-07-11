@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: https://https://ruthlys.github.io//about/
+    url: https://https://ruthlys.github.io/about/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Data viz"
-    url: /dataviz/
-  - title: "Science communication"
-    url: /scicomm/
+  - title: "Blog"
+    url: /blog/
+#  - title: "Science communication"
+#    url: /scicomm/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

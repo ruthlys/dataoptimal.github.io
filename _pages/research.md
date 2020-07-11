@@ -4,7 +4,7 @@ permalink: /research/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /images/wheat_green.jpg
+  overlay_image: /images/microbes.jpeg
 
 ---
 

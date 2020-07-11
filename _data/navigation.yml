@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Aboout"
+    url: https://https://ruthlys.github.io//about/
   - title: "Research"
     url: /research/
   - title: "Publications"

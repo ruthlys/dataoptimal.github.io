@@ -172,12 +172,13 @@ body:hover .visually-hidden button {
 .icon {
   display: inline-block;
   fill: currentColor;
-  width: 3em;
-  height: 3em;
+  /*width: 3em;
+  height: 3em;*/
   line-height: 1;
   position: relative;
   top: -0.1em;
   vertical-align: middle;
+  font-size: 3em;
 }
 
 /* social icons*/

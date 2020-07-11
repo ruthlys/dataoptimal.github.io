@@ -16,7 +16,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 ### A Gaseous Milieu: Extending the Boundaries of the Rhizosphere.
 Trends in microbiology. [DOI: 10.1016/j.tim.2020.02.016](https://doi.org/10.1016/j.tim.2020.02.016)
-de la Porte, A., **Schmidt, R.**, Yergeau, É., & Constant, P.
+<p>de la Porte, A., **Schmidt, R.**, Yergeau, É., & Constant, P.</p>
 
 2019
 

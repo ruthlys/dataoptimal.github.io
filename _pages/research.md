@@ -8,7 +8,7 @@ header:
 
 ---
 
-I am intrigued by the how microbes interact and communicate with each other via gaseous compounds or volatiles. They are called volatile because they are released into the air by microbes or plants and are perceived by a variety of organisms, including us humans. You may have heard of geosmin, the probably most famous volatile compound that has a characteristic earthy, fresh smell and is produced by soil-dwelling bacteria when rain hits dry soil.
+I am intrigued by the how microbes interact and communicate with each other and their environment via gaseous compounds or volatiles. They are called volatile because they are released into the air by microbes or plants and are perceived by a variety of organisms, including us humans. You may have heard of geosmin, the probably most famous volatile compound that has a characteristic earthy, fresh smell and is produced by soil-dwelling bacteria when rain hits dry soil.
 
 <p>
     <iframe style="width: 700px; height: 400px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=29746"></iframe>

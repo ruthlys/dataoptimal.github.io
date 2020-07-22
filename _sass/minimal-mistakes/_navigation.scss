@@ -84,13 +84,13 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mediumaquamarine;
+      color: #66CDAA;
       border: 1px solid mix(#000, $border-color, 25%);
       border-radius: 0;
 
       &:hover {
         /*color: $link-color-hover;*/
-        color: mediumaquamarine;
+        color: #66CDAA;
       }
 
       &.current,
@@ -100,7 +100,7 @@
       }
 
       &.disabled {
-        color: rgba(mediumaquamarine, 0.5);
+        color: rgba(#66CDAA, 0.5);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -134,7 +134,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mediumaquamarine;
+    color: #66CDAA;
     border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
 
@@ -154,7 +154,7 @@
     }
 
     &.disabled {
-      color: rgba(mediumaquamarine, 0.5);
+      color: rgba(#66CDAA, 0.5);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -519,7 +519,7 @@
   a {
     display: none;
     padding: 0.5rem 1rem;
-    color: mediumaquamarine;
+    color: #66CDAA;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;

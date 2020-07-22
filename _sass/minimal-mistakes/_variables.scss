@@ -99,10 +99,10 @@ $xing-color: #006567 !default;
 
 /* links */
 $link-color: $info-color !default;
-$link-color-hover: mix(#000, $link-color, 100%) !default;
-$link-color-visited: mix(#fff, $link-color,  100%) !default;
+$link-color-hover: mix(#000, $link-color, 0%) !default;
+$link-color-visited: mix(#fff, $link-color, 25%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 100%) !default;
+$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 100%) !default;
 
 /* syntax highlighting (base16) */

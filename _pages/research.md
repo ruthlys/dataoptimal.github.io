@@ -8,14 +8,6 @@ header:
   overlay_image: /images/microbes_data.png
 ---
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
----
-
 I am intrigued by the how microbes interact and communicate with each other and their environment. One such way stems from [volatile compounds](https://en.wikipedia.org/wiki/Volatiles). They're called volatile because they are easily released into the air by soil microbes or plants and are perceived by a variety of organisms, including us humans. You may have heard of geosmin, the probably most famous volatile compound that has a characteristic earthy, fresh smell and is produced by soil-dwelling bacteria when rain hits dry soil. It looks like this:
 
 <img src="/images/geosmin.png" alt="geosmin" width="300" class="center"/>

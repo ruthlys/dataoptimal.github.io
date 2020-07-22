@@ -6,8 +6,8 @@ author_profile: false
 #  nav: "pubs"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: /images/microbes_1.gif
+  overlay_filter: "0"
+  overlay_image: /images/microbes_data.png
 
 ---
 

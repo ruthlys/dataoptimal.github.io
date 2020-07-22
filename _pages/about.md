@@ -18,12 +18,12 @@ header:
 
 <p>I conducted my graduate studies in Biotechnology at the Technical University of Graz, Austria where I developed
    microbial consortia as sustainable alternative to pesticides together with
-   Egypt’s first organic agricultural organization SEKEM. I then moved to the Netherlands for my PhD studies at the Netherlands
+   Egypt’s first organic agricultural organization. I then moved to the Netherlands for my PhD studies at the Netherlands
    Institute of Ecology & Wageningen University where I studied the
    <a href="https://www.sciencedaily.com/releases/2017/04/170413190718.htm">volatile language between
    microorganisms in the context of plant health</a>. </p>
 
-<p>Apart from dealing with microbes and data, I am passionate about bridging <a href="https://www.sciartmagazine.com/the-art-of-microbial-communication.html">arts & science</a> and making science more
+<p>Apart from dealing with microbes and data, I am passionate about bridging <a href="https://www.sciartmagazine.com/the-art-of-microbial-communication.html">art & science</a> and making science more
   inclusive and accessible for which I have been active in organization including
   <a href="https://500womenscientists.org/">500 Women Scientists</a>, the <a href="https://qcbs.ca/">Quebec Center for
     Biodiversity Science (QCBS)</a> and the <a href="https://www.isme-microbes.org/">International Society for Microbial Ecology (ISME)

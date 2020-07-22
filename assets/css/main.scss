@@ -3,6 +3,7 @@
 $link-color: #66CDAA;
 ---
 $link-color: #66CDAA;
+a:hover{text-decoration:none}
 
 .greedy-nav a:before {
   background: mix(#fff, #66CDAA, 50%);

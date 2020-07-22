@@ -83,7 +83,7 @@
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
-      text-decoration: none;
+      text-decoration: underline;
       color: #66CDAA;
       border: 1px solid mix(#000, $border-color, 25%);
       border-radius: 0;
@@ -418,7 +418,7 @@
       }
 
       &:hover {
-        text-decoration: none;
+        text-decoration: underline;
       }
     }
   }

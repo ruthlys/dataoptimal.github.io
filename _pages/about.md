@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /images/microbes_1.gif
+  overlay_image: /images/microbes_data.png
 ---
 
 <p>I am a microbial ecologist & data scientist.

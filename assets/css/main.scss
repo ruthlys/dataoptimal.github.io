@@ -5,6 +5,13 @@ $link-color: #66CDAA;
 $link-color: #66CDAA;
 a:hover{text-decoration:none}
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .greedy-nav a:before {
   background: mix(#fff, #66CDAA, 50%);
 }
